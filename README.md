@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- [GPG Key](https://github.com/bejelith.gpg)
+- [My GPG Key](https://github.com/bejelith.gpg)
 
